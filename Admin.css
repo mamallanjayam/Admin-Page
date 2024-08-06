@@ -1,0 +1,29 @@
+#Upload{
+
+    color: aqua;    
+    width: fit-content;
+    height: fit-content;
+
+}
+#Show{
+    color: white;
+}
+#File{
+    color: white;
+}
+
+body{
+  /* background-color: black;*/
+    margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+#choosing{
+    background-color: white;
+    color: black;
+}
